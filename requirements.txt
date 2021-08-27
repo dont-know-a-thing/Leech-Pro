@@ -13,5 +13,7 @@ lxml
 requests
 messages
 js2py
-feedparser
+Click==7.0
+feedparser==5.2.1
+qbittorrent-api==0.5.1
 
