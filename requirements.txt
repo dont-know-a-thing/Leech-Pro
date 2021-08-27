@@ -15,5 +15,5 @@ messages
 js2py
 Click==7.0
 feedparser==5.2.1
-qbittorrent-api==0.5.1
+
 
